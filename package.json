@@ -1,0 +1,19 @@
+{
+  "name": "awesome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahendra09111993/awesome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahendra09111993/awesome/issues"
+  },
+  "homepage": "https://github.com/Mahendra09111993/awesome#readme"
+}
